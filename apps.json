@@ -2,10 +2,10 @@
   {
     "id": "one_bite",
     "name": "OneBite",
-    "tagline": "La mejor calculadora",
+    "tagline": "Diseñada para usarse con las manos en la masa",
     "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/66bc74e9cfe8361a38eec4f3bd0a0d1f34aaea17/OneBite/Logo/IconoOneBite.png",
     "category": "Herramientas",
-    "isFeatured": true,
+    "isFeatured": false,
     "detailsUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/refs/heads/main/OneBite.json"
   },
   {
@@ -14,7 +14,7 @@
     "tagline": "Explora mundos mágicos",
     "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/icono.png",
     "category": "Juegos",
-    "isFeatured": false,
+    "isFeatured": true,
     "detailsUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/app_details.json"
   }
 ]
