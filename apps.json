@@ -10,9 +10,9 @@
   },
   {
     "id": "one_more",
-    "name": "One More",
-    "tagline": "Explora mundos mágicos",
-    "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/icono.png",
+    "name": "OneMore",
+    "tagline": "Haz siempre una más",
+    "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Logo/LogoOneMore.png",
     "category": "Juegos",
     "isFeatured": true,
     "detailsUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore.json"
