@@ -9,12 +9,12 @@
     "detailsUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/main/OneBite.json"
   },
   {
-    "id": "app_002",
-    "name": "Aventura Épica",
+    "id": "one_more",
+    "name": "One More",
     "tagline": "Explora mundos mágicos",
     "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/icono.png",
     "category": "Juegos",
     "isFeatured": true,
-    "detailsUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/app_details.json"
+    "detailsUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore.json"
   }
 ]
