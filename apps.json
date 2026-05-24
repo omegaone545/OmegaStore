@@ -1,14 +1,5 @@
 [
-  {
-    "id": "one_bite",
-    "name": "OneBite",
-    "tagline": "Recetas de bolsillo",
-    "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/66bc74e9cfe8361a38eec4f3bd0a0d1f34aaea17/OneBite/Logo/IconoOneBite.png",
-    "category": "Herramientas",
-    "isFeatured": false,
-    "detailsUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/main/OneBite.json"
-  },
-  {
+    {
     "id": "one_more",
     "packageName": "com.onemore.one_more",
     "name": "OneMore",
@@ -17,5 +8,14 @@
     "category": "Juegos",
     "isFeatured": true,
     "detailsUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore.json"
+  },
+  {
+    "id": "one_bite",
+    "name": "OneBite",
+    "tagline": "Recetas de bolsillo",
+    "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/66bc74e9cfe8361a38eec4f3bd0a0d1f34aaea17/OneBite/Logo/IconoOneBite.png",
+    "category": "Herramientas",
+    "isFeatured": false,
+    "detailsUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/main/OneBite.json"
   }
 ]
