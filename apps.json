@@ -10,6 +10,7 @@
   },
   {
     "id": "one_more",
+    "packageName": "com.tu.paquete.onemore",
     "name": "OneMore",
     "tagline": "Haz siempre una más",
     "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Logo/LogoOneMore.png",
