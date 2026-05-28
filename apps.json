@@ -11,6 +11,7 @@
   },
   {
     "id": "one_bite",
+    "packageName": "com.example.app_recetas",
     "name": "OneBite",
     "tagline": "Recetas de bolsillo",
     "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/66bc74e9cfe8361a38eec4f3bd0a0d1f34aaea17/OneBite/Logo/IconoOneBite.png",
