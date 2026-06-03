@@ -1,5 +1,15 @@
 [
     {
+    "id": "onotes",
+    "packageName": "com.example.bloc_notas",
+    "name": "Onotes",
+    "tagline": "Tus notas, siempre contigo",
+    "iconUrl": "https://raw.githubusercontent.com/omegaone545/Onotes/main/Onotes/Logo/logo.png",
+    "category": "Juegos",
+    "isFeatured": true,
+    "detailsUrl": "https://raw.githubusercontent.com/omegaone545/Onotes/main/Onotes.json"
+  },
+    {
     "id": "one_more",
     "packageName": "com.onemore.one_more",
     "name": "OneMore",
