@@ -33,7 +33,7 @@
     "id": "playlog",
     "packageName": "my.tier.list",
     "name": "PlayLog",
-    "tagline": "u historial de juegos, siempre contigo",
+    "tagline": "Tu historial de juegos, siempre contigo",
     "iconUrl": "https://raw.githubusercontent.com/omegaone545/PlayLog/refs/heads/main/media_1789397415375.jpg",
     "category": "Juegos",
     "isFeatured": true,
