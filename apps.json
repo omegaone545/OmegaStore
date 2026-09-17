@@ -1,7 +1,7 @@
 [
      {
     "id": "cinelog",
-    "packageName": "my.tier.list",
+    "packageName": "my.cinelog.app",
     "name": "CineLog",
     "tagline": "Todo lo que ves, siempre contigo",
     "iconUrl": "https://raw.githubusercontent.com/omegaone545/CineLog/refs/heads/main/Logo.png",
