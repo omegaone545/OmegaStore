@@ -1,4 +1,14 @@
 [
+     {
+    "id": "cinelog",
+    "packageName": "my.tier.list",
+    "name": "CineLog",
+    "tagline": "Todo lo que ves, siempre contigo",
+    "iconUrl": "https://raw.githubusercontent.com/omegaone545/CineLog/refs/heads/main/Logo.png",
+    "category": "Juegos",
+    "isFeatured": true,
+    "detailsUrl": "https://raw.githubusercontent.com/omegaone545/CineLog/refs/heads/main/CineLog.json"
+  },
     {
     "id": "playlog",
     "packageName": "my.tier.list",
