@@ -8,7 +8,7 @@
     "category": "Juegos",
     "isFeatured": true,
     "detailsUrl": "https://raw.githubusercontent.com/omegaone545/Encuadre/refs/heads/main/encuadre.json"
-  }
+  },
      {
     "id": "cinelog",
     "packageName": "my.cinelog.app",
