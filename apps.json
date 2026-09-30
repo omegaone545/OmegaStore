@@ -1,4 +1,14 @@
 [
+          {
+    "id": "encuadre_photos",
+    "packageName": "org.example.project.collage.photos",
+    "name": "Encuadre",
+    "tagline": "Conviertes tus fotos en algo unico",
+    "iconUrl": "https://raw.githubusercontent.com/omegaone545/Encuadre/refs/heads/main/logo.png",
+    "category": "Juegos",
+    "isFeatured": true,
+    "detailsUrl": "https://raw.githubusercontent.com/omegaone545/Encuadre/refs/heads/main/encuadre.json"
+  }
      {
     "id": "cinelog",
     "packageName": "my.cinelog.app",
