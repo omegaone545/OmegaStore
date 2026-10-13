@@ -1,5 +1,15 @@
 [
-          {
+ {
+  "id": "komodo_browser",
+  "packageName": "org.example.project.komodo",
+  "name": "Komodo",
+  "tagline": "Navegación ultrarrápida, privada y sin anuncios",
+  "iconUrl": "https://raw.githubusercontent.com/omegaone545/Komodo/refs/heads/main/LOGO.png",
+  "category": "Herramientas",
+  "isFeatured": true,
+  "detailsUrl": "TU_ENLACE_AQUI/komodo.json"
+},         
+ {
     "id": "encuadre_photos",
     "packageName": "org.example.project.collage.photos",
     "name": "Encuadre",
